@@ -1,6 +1,7 @@
 # Hotel-booking-analysis
-# Problem Statement
+# Summary
 The dataset represents the data of City hotels and Resort Hotels. The dataset have 32 variables with 119,390 observations. Each observation represents a hotel booking. The datasets comprehend bookings due to arrive between the 1st of July of 2015 and the 31st of August 2017, including bookings that effectively arrived and bookings that were canceled. Since this is hotel real data, all data elements pertaining hotel or customer identification were removed.
+# Problem Statement
 1.	In which of the hotel the highest booking was made
 2.	In which type of hotel people prefer stay in terms of days
 3.	Cancelation Done Based on months
