@@ -1,4 +1,5 @@
 # Hotel-booking-analysis
+# Problem Statement
 The dataset represents the data of City hotels and Resort Hotels. The dataset have 32 variables with 119,390 observations. Each observation represents a hotel booking. The datasets comprehend bookings due to arrive between the 1st of July of 2015 and the 31st of August 2017, including bookings that effectively arrived and bookings that were canceled. Since this is hotel real data, all data elements pertaining hotel or customer identification were removed.
 1.	In which of the hotel the highest booking was made
 2.	In which type of hotel people prefer stay in terms of days
@@ -14,7 +15,7 @@ The dataset represents the data of City hotels and Resort Hotels. The dataset ha
 12.	Which was the most preferred deposit type made
 13.	Which kind of rooms were assigned for different adult size
 	
-Conclusion:
+# Conclusion:
 From the given dataset, after performing EDA based upon all of the above mentioned, we conclude the inferences which we found were:
 1.	Majority of the hotels booked are city hotel. Definitely need to spend the most targeting fund on those hotel.
 2.	People also prefer to stay for longer duration in Resort Hotels and prefer City Hotels for Shorter duration.
